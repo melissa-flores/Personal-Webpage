@@ -6,4 +6,4 @@ I'm Melissa. I have a MSc in Environmental Sciences from ETH Zurich.
 
 ### Resume
 
-<embed src="https://mflores.github.io/pdfs/MF Resume.png" width="1000px" height="2100px"/>
+<img src="pdfs/MF Resume.png" alt="Melissa Flores's one-page resume" class="inline" width="1000px" height="2100px"/>
