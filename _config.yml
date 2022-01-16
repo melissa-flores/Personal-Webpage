@@ -4,3 +4,10 @@ plugins:
 
 plugins:
   - jekyll-pdf-embed
+ 
+ minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    linkedin:  https://www.linkedin.com/in/melissafloresdata/
