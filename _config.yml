@@ -1,13 +1,15 @@
-theme: minima
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-plugins:
-  - jekyll-pdf-embed
- 
  minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
   social_links:
-    linkedin_username:  melissafloresdata
+    linkedin:  melissafloresdata
+    
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-pdf-embed
