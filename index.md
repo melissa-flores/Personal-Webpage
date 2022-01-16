@@ -9,4 +9,4 @@ I'm Melissa. I have a MSc in Environmental Sciences from ETH Zurich.
 <img src="pdfs/MF Resume.png" alt="Melissa Flores's one-page resume" class="inline"/>
 
 ### Contact Me
-<a href="https://www.linkedin.com/melissafloresdata" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a>
+<a href="http://linkedin.com/in/{{ author.linkedin | cgi_escape }}" class="author-social" target="_blank"></a>
