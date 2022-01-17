@@ -1,7 +1,7 @@
 ## Melissa Flores
 
 ### About Me
-MSc in Environmental Science. Climate Research. Product Development. Data Science.
+Climate & Energy Research. Product Development. Data Science.
 
 ### Resume
 <details>
