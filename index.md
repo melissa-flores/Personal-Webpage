@@ -1,5 +1,4 @@
-
- ## Melissa Flores
+## Melissa Flores
 
 <a href="http://linkedin.com/in/melissafloresdata">
     <img src="pdfs/linkedin_icon.jpg" alt="Visit my LinkedIn page" width="160" height="160" align="left" class="inline"/></a>
