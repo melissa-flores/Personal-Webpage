@@ -1,13 +1,13 @@
-### Free Resources to Break into Tech
+# Free Resources to Break into Tech
 
 ## Data Science
 
-# Data Science 4 All 
+### Data Science 4 All 
 
-# Recurse Center
+### Recurse Center
 
 ## Management
 
-# The Job Hackers
+### The Job Hackers
 
 
