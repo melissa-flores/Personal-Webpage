@@ -2,7 +2,7 @@
  ## Melissa Flores
 
 <a href="http://linkedin.com/in/melissafloresdata">
-    <img src="pdfs/linkedin_icon.jpg" alt="Via my LinkedIn page" width="150" height="150" align="left" class="inline"/></a>
+    <img src="pdfs/linkedin_icon.jpg" alt="Via my LinkedIn page" width="160" height="160" align="left" class="inline"/></a>
     
 Climate & Energy Research. Product Development. Data Science.
 
