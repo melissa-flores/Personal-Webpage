@@ -1,12 +1,8 @@
 ## Melissa Flores
 
-### About Me
+### [About Me](_pages/about.md)
 
-I'm Melissa. I have a MSc in Environmental Sciences from ETH Zurich. 
-
-### Resume
-
-<img src="pdfs/MF Resume.png" alt="Melissa Flores's one-page resume" class="inline"/>
+### [Resume](_pages/resume.md)
 
 ### Contact Me
 <a href="http://linkedin.com/in/melissafloresdata">
