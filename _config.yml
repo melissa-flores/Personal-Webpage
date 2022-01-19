@@ -6,6 +6,7 @@
     linkedin:  melissafloresdata
     
 # Build settings
+baseurl: "mflores.github.io"
 url: "https://melissa-flores.github.io"
 theme: minima
 
