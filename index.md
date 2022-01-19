@@ -1,3 +1,9 @@
+---
+
+layout: post
+title: Home
+---
+
 ## Melissa Flores
 
 <a href="http://linkedin.com/in/melissafloresdata">
