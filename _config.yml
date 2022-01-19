@@ -6,6 +6,7 @@
     linkedin:  melissafloresdata
     
 # Build settings
+url: "https://melissa-flores.github.io"
 theme: minima
 
 plugins:
