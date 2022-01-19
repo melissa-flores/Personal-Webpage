@@ -27,4 +27,4 @@ I'm a graduate student at ETH Zurich. I'm interested in how data can be used to 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1j35ZGA5lWuwvC71o-zztvhs9w7_NQuiW639oNsROPqrYZA/viewform?embedded=true" width="640" height="707" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ### Resources
-[Free Resources for Learning Data Science](/_pages/resources.md)
+[Free Resources for Learning Data Science]({{ site.baseurl }}/_pages/resources.md)
