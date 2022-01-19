@@ -1,3 +1,9 @@
+---
+
+layout: post
+title: Resources
+---
+
 # Free Resources to Break into Tech
 
 ## Data Science
