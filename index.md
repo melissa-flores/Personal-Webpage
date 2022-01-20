@@ -22,7 +22,7 @@ I'm a graduate student at ETH Zurich. I'm interested in how data can be used to 
 ### Resume
 <details>
 <summary> One-pager </summary>
-<img src="pdfs/MF Resume.png" alt="Melissa Flores's one-page resume" class="inline"/>
+<img src="pdfs/MF Resume.png" alt="Melissa Flores's one-page resume" width="800" height="1035" class="inline"/>
   </details>
   
 ### Projects
