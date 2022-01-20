@@ -47,4 +47,4 @@ I'm a graduate student at ETH Zurich. I'm interested in how data can be used to 
       </details>
 
 ### Resources
-[Free Resources for Learning Data Science](./_pages/resources.html)
+[Free Resources for Learning Data Science](resources.md)
