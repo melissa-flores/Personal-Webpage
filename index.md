@@ -28,7 +28,7 @@ I'm a graduate student at ETH Zurich. I'm interested in how data can be used to 
   </details>
 [My 2-page CV](resume.md)
   
-### Projects
+### Data Science Projects
 <details>
 <summary> Flight Delay Prediction </summary>
     <p>As a fellow at the Data Science 4 All / Women Program, I primarily worked to predict flight delays using neural networks. I'm working on improving the prediction and will share my results here.
@@ -38,6 +38,11 @@ I'm a graduate student at ETH Zurich. I'm interested in how data can be used to 
 <details>
 <summary> Using NLP to Study Local Solar Energy Laws </summary>
     <p>As a graduate student, I collected labeled data and used this to develop a keyword approach to identify laws that encourage and discourage solar energy adoption. <a href="https://drive.google.com/file/d/1VeLTsGpYlRdvVk8WOwddsJMYXTvCHHmy/view?usp=sharing"> Read my thesis here. </a> </p>
+  </details>
+
+<details>
+<summary> Predicting 911 Call Severity </summary>
+    <p>I worked with a team of students in ETH Zurich's Business Analytics course to predict 911 call severity using location and weather data. I primarily worked on cleaning data and developing a multinomial regression model. </p>
   </details>
   
   
