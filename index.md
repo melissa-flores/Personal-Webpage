@@ -11,15 +11,13 @@ title: Melissa
 Climate & Energy Research. Product Development. Data Science.
 
 
-    
-
 ### About Me
 I'm a graduate student at ETH Zurich. I'm interested in how data can be used to inform climate and energy policy. I have experience working with climate models, energy data, and cloud computing.
 
 ### Resume
 <details>
 <summary> One-pager </summary>
-<img srcset="pdfs/MF Resume.png .5x" alt="Melissa Flores's one-page resume" class="inline"/>
+<img src="pdfs/MF Resume.png" alt="Melissa Flores's one-page resume" class="inline"/>
   </details>
   
 ### Projects
