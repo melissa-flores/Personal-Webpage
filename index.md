@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Melissa
-permalink: /home/
 ---
 
 ## Melissa Flores
