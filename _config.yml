@@ -6,7 +6,8 @@
     linkedin:  melissafloresdata
     
 # Build settings
-baseurl: "mflores.github.io"
+url: "http://mflores.github.io/melissa-flores/"
+baseurl: "/melissa-flores"
 theme: minima
 
 plugins:
