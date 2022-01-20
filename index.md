@@ -23,8 +23,8 @@ I'm a graduate student at ETH Zurich. I'm interested in how data can be used to 
 ### Projects
 <details>
 <summary> Flight Delay Prediction </summary>
-    <p>As a fellow at the Data Science 4 All / Women Program, I worked to predict flight delays using neural networks. I'm working on improving the prediction and will share my results here.</p>
-    <a href="https://github.com/drewrya/DS4A---Team-16"> See our team's work here. </a>
+    <p>As a fellow at the Data Science 4 All / Women Program, I worked to predict flight delays using neural networks. I'm working on improving the prediction and will share my results here.
+    <a href="https://github.com/drewrya/DS4A---Team-16"> See our team's work here. </a> </p>
   </details>
   
 <details>
