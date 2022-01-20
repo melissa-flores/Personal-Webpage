@@ -40,4 +40,4 @@ I'm a graduate student at ETH Zurich. I'm interested in how data can be used to 
       </details>
 
 ### Resources
-[Free Resources for Learning Data Science]({{ site.baseurl }}/_pages/resources.md)
+[Free Resources for Learning Data Science](./_pages/resources.md)
