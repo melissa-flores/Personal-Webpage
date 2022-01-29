@@ -40,7 +40,7 @@ I'm a graduate student at ETH Zurich. I'm interested in how data can be used to 
 <details>
 <summary> Using NLP to Study Local Solar Energy Laws </summary>
     <p>As a graduate student, I collected labeled data and used this to develop a keyword approach to identify laws that encourage and discourage solar energy adoption. <a href="https://drive.google.com/file/d/1VeLTsGpYlRdvVk8WOwddsJMYXTvCHHmy/view?usp=sharing"> Read my thesis here. </a> 
-    <img src="pdfs/Thesis Datafolio.jpg" alt="Datafolio" class="inline"/>
+    <img src="pdfs/Thesis_Datafolio.png" alt="Datafolio" class="inline"/>
 </p>
   </details>
 
