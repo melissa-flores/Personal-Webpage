@@ -32,7 +32,9 @@ I'm a graduate student at ETH Zurich. I'm interested in how data can be used to 
 <details>
 <summary> Flight Delay Prediction </summary>
     <p>As a fellow at the Data Science 4 All / Women Program, I primarily worked to predict flight delays using neural networks. I'm working on improving the prediction and will share my results here.
-    <a href="https://github.com/drewrya/DS4A---Team-16/blob/main/ds4a%20-%20Fall%202021%20-%20Team%2016%20Final%20Report.docx"> See our team's report here. </a> </p>
+    <a href="https://github.com/drewrya/DS4A---Team-16/blob/main/ds4a%20-%20Fall%202021%20-%20Team%2016%20Final%20Report.docx"> See our team's report here. </a> 
+        <img src="pdfs/DS4A_Team16_Predicting_Airline_Delays.png" alt="Our DS4A datafolio" class="inline"/>
+</p>
   </details>
   
 <details>
